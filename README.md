@@ -2,7 +2,7 @@
 
 A lightweight Tampermonkey userscript that enhances the Goodreads review page by adding configurable, user-friendly calendar date pickers for "Date Started" and "Date Finished" fields.
 
-![Version](https://img.shields.io/badge/version-4.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ---
