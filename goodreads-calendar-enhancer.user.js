@@ -6,11 +6,12 @@
 // @author        JClouseau42
 // @match         https://www.goodreads.com/*
 // @match         https://goodreads.com/*
-// @require       https://cdn.jsdelivr.net/npm/flatpickr
+// @require       https://cdn.jsdelivr.net/npm/flatpickr@4.6.13/dist/flatpickr.min.js
 // @grant         GM_getValue
 // @grant         GM_setValue
 // @grant         GM_registerMenuCommand
 // @run-at        document-end
+// @license MIT
 // ==/UserScript==
 
 (function() {
